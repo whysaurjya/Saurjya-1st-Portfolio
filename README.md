@@ -1,5 +1,11 @@
 # Saurjya Achayra 1st Portfolio Website
 
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+
 This is the repository for my first personal portfolio website, showcasing my skills, projects, and achievements as a design entrepreneur and visual artist. The website is designed to reflect my creative style and professional journey, featuring a clean, responsive layout optimized for all devices.
 
 Key Features:
