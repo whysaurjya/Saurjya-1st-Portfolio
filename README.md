@@ -16,12 +16,6 @@ Key Features:
 ● Contact Form: Allows potential clients or collaborators to reach out easily.
 ● Performance Optimization: Ensures fast loading times and smooth navigation.
 
-## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
-
 ## Contact
 
 If you want to contact me you can reach me at [Website](https://www.saurjya.in).
